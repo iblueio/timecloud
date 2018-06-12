@@ -6,12 +6,18 @@
   "repository": "ttps://github.com/iblueio/timecloud.git",
   "author": "Bingmang",
   "license": "MIT",
+  "scripts": {
+    "start": "scripts/start.sh",
+    "stop": "scripts/stop.sh",
+    "debug": "scripts/singleton.sh"
+  },
   "dependencies": {
     "express": "^4.16.3",
+    "pm2": "^2.10.4",
     "serve-index": "^1.9.1",
     "serve-static": "^1.13.2",
-    "timecloud-back": "^0.0.1",
+    "timecloud-back": "^0.0.2",
     "timecloud-core": "^0.0.1",
-    "timecloud-front": "^0.0.1"
+    "timecloud-front": "^0.0.2"
   }
 }

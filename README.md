@@ -41,6 +41,12 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## 日志
+
+每个任务拥有自己的日志路径，
+其中timecloud的日志为trace级和fatal级，
+任务日志为info级和error级。
+
 ## Create Job
 
 ---
