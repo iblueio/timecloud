@@ -16,8 +16,8 @@
     "pm2": "^2.10.4",
     "serve-index": "^1.9.1",
     "serve-static": "^1.13.2",
-    "timecloud-back": "^0.0.2",
+    "timecloud-back": "^1.0.0",
     "timecloud-core": "^0.0.1",
-    "timecloud-front": "^0.0.2"
+    "timecloud-front": "^0.0.3"
   }
 }
