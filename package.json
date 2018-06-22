@@ -1,6 +1,6 @@
 {
   "name": "timecloud",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A distributed scheduling system based on Node.js",
   "main": "app.js",
   "repository": "ttps://github.com/iblueio/timecloud.git",
@@ -16,8 +16,8 @@
     "pm2": "^2.10.4",
     "serve-index": "^1.9.1",
     "serve-static": "^1.13.2",
-    "timecloud-back": "^1.0.0",
-    "timecloud-core": "^0.0.1",
-    "timecloud-front": "^0.0.3"
+    "timecloud-back": "^2.0.0",
+    "timecloud-core": "^2.0.0",
+    "timecloud-front": "^2.0.0"
   }
 }
